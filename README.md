@@ -1,6 +1,6 @@
 # Service registery microservice
 
-Project is a microservice, which is part of Cheaclo project. The service registery, which helps organize hostnames of microservices.
+Project is a microservice, which is part of Cheaclo project. The service registry, which helps organize hostnames of microservices.
 
 ## Tech stack
 
@@ -13,3 +13,4 @@ Project is a microservice, which is part of Cheaclo project. The service registe
 - [WEB-SCRAPPER-SERVICE](https://github.com/cheaclo/web-scrapper)
 - [CLOTHES-DATABASE](https://github.com/cheaclo/clothes-database)
 - [API-GATEWAY](https://github.com/cheaclo/cloud-gateway)
+- [CLIENT-SERVICE](https://github.com/cheaclo/client-front)
