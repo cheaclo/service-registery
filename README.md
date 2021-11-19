@@ -12,5 +12,6 @@ Project is a microservice, which is part of Cheaclo project. The service registr
 
 - [WEB-SCRAPPER-SERVICE](https://github.com/cheaclo/web-scrapper)
 - [CLOTHES-DATABASE](https://github.com/cheaclo/clothes-database)
+- [USERS-DATABASE](https://github.com/cheaclo/users-database)
 - [API-GATEWAY](https://github.com/cheaclo/cloud-gateway)
 - [CLIENT-SERVICE](https://github.com/cheaclo/client-front)
